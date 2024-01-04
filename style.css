@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
 
-/* vote Mikuni and stop looking at the code kthxbai */
 
 * {
   margin: 0;
@@ -88,7 +87,7 @@ html {
   position: fixed;
   height: 45px;
   width: 42px;
-  background: #22b4b7;
+  background: #0cdfd1 url("https://cdn.discordapp.com/attachments/884283878142001194/1190978902756180048/Opera_Snapshot_2023-12-31_163711_www.shutterstock.com-removebg-preview.png?ex=65a3c489&is=65914f89&hm=9f4073f61ae77685593671d30a4cf0d48a4ff36882e12de5a7c2da74fe016000&") no-repeat center;
   right: 30px;
   bottom: 10px;
   text-align: center;
@@ -252,7 +251,7 @@ section .title::after {
   background: #fff;
 }
 .stats .title::after {
-  content: "thank you ";
+  content: "Thank You ";
 }
 .stats p {
   color: #fff;
@@ -263,7 +262,7 @@ section .title::after {
 
 
 .contributors .title::after {
-  content: "amazing people";
+  content: "Amazing People";
 }
 .contributors .carousel .cardd {
   background: #222;
@@ -364,9 +363,6 @@ footer span a:hover {
   text-decoration: underline;
 }
 
-
-
-/* haha responsiveness kill me pain halp me pls kthxbai */
 
 @media (max-width: 1100px) {
   .home .max-width {

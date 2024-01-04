@@ -27,9 +27,7 @@ $(document).ready(function() {
       "powerful",
       "easy to use",
       "cute",
-      "your Waifu",
-      "made with love",
-      "Hot",
+      "your Friend",
       "well developed",
       "nice",
     ],
@@ -38,8 +36,6 @@ $(document).ready(function() {
     loop: true,
   })
 
-  // this is really cool
-  // but you should vote Mikuni first
 
   $('.carousel').owlCarousel({
     margin: 20,
